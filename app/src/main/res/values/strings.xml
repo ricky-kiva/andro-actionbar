@@ -6,4 +6,5 @@
     <string name="search">Search</string>
     <string name="menu_1">First Menu</string>
     <string name="menu_2">Second Menu</string>
+    <string name="search_hint">Search What?</string>
 </resources>
